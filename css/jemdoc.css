@@ -7,9 +7,9 @@ table#tlayout {
 }
 
 body {
-	background: grey;
+	background: white;
 	/*font-family: Helvetica, Georgia, serif, SimHei;*/
-	font-family: Helvetica, Georgia, SimHei，sans-serif;
+	font-family: Helvetica, Georgia, SimSun，sans-serif;
 	padding-bottom: 8px;
 	margin-top: 2em;
 	margin-left:6em;
